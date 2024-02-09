@@ -22,12 +22,11 @@
 
 
 # Стек:
-Python
-Pandas
-Numpy
-Matplotlib
-Scikit-learn
-LightGBM
+Python,
+Pandas,
+Numpy,
+Matplotlib,
+Scikit-learn,
 CatBoost
 
 
