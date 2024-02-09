@@ -27,6 +27,7 @@ Pandas,
 Numpy,
 Matplotlib,
 Scikit-learn,
-CatBoost
-
+CatBoost,
+functools,
+phik
 
